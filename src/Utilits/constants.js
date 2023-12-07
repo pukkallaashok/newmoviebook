@@ -22,5 +22,3 @@ export const Supported_Language = [
   { idetifier: "telugu", langName: "Telugu" },
   { idetifier: "japanese", langName: "Japanese" },
 ];
-
-export const openAI_Key = process.env.REACT_APP_OPENAI_API_KEY; //process.env["OPENAI_API_KEY"]
